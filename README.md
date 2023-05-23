@@ -7,6 +7,15 @@
 - Pycharm
 
 ## How to train and run?  
+- `mkdir dataset and test_output`  
+---project  
+&nbsp;&nbsp;|  
+&nbsp;&nbsp;---dataset  
+&nbsp;&nbsp;|&nbsp;&nbsp;|  
+&nbsp;&nbsp;|&nbsp;&nbsp;---face  
+&nbsp;&nbsp;|&nbsp;&nbsp;---test  
+&nbsp;&nbsp;|&nbsp;&nbsp;|  
+&nbsp;&nbsp;---test_output   
 - `run image_take.py`  
     Get face data by camera and build dataset.  
 ---dataset  
