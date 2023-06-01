@@ -1,4 +1,4 @@
-# OpenCV_Face_Detection
+# OpenCV_Face_Recognition
 ## Enviroment  
 - Pip  
   - OpenCV
